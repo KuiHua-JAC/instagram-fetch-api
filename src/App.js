@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 function App() {
   const accessToken =
-    "IGQVJWV2JYMktDejA1Sm1jNjBHeU9MR2xlZAm51QjFOb3Q1UlVmZAWFNVnplQUFRbGE0THVHX2lNZAmljbFIwOXB1V2QyX3h2VWFrMnhUN3ZABaHlueGRxRFNwTTJqMVdhaDNRNGk3NWNfYW5HOWRrVDlXWAZDZD";
+    "IGQWRPUDlWMzkwZAXA3WGRHV2FITVEzUl9ZARENMbUc3bzVlcXhRQjRLcjFkeUFYRjlrMHZA6ZAk5aRFBkOXh3RXpSNkR5M1Q5T0FxbmZANX2ZA6aHJLNGNpcnc1aWg1OVZAieEZAZAUUYxQkptNzdOdzgxMHoxNDhOMU5ObjAZD";
 
   const [username, setUsername] = useState("");
   const [posts, setPosts] = useState([]);
