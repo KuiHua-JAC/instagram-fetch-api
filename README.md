@@ -4,7 +4,8 @@ account on the website and automatically show the most recent x number of posts.
 
 ## How to run
 In the root folder, type in npm i
-Then "npm start"
+Then "npm start". In order to make sure the app fetches from Instagram properly, make sure to have given a valid token inside of App.js.
+[Instagram Basic Display API Documentation](https://developers.facebook.com/docs/instagram-basic-display-api/)
 
 ## Features
 
